@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265938681573",
+    "project_id": "chatapp-db3d2",
+    "storage_bucket": "chatapp-db3d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265938681573:android:13ddb4620dad30d4d75e0c",
+        "android_client_info": {
+          "package_name": "com.example.app_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_vwdd445R1ySd5AOwuj8nB6nlO87FfpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
